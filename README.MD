@@ -5,12 +5,4 @@
 
 #测试stash
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-#主枝上加的
-=======
-#第一个旁枝
->>>>>>> Stashed changes
-=======
-#第一个旁枝
->>>>>>> Stashed changes
+#okokko
