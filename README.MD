@@ -10,4 +10,7 @@
 #测试stash
 
 #第一个旁枝
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
